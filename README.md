@@ -1,7 +1,7 @@
 # Hi there, I'm Vũ Mạnh Hoạch 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Vu%20Manh%20Hoach&fontSize=42&fontAlignY=35&desc=Data%20Engineer%20%7C%20Data%20Platform%20Builder&descAlignY=58&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Vu%20Manh%20Hoach&fontSize=42&fontAlignY=35&desc=Data%20Engineer%20%&descAlignY=58&descSize=20" width="100%"/>
 </p>
 
 ### 👨‍💻 Về tôi
