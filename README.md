@@ -59,15 +59,6 @@
 
 ---
 
-### 📊 Thống kê hoạt động GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vumanhhoach2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vumanhhoach2003&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Kết nối với tôi
 <p align="left">
   <a href="mailto:vumanhhoach2003@gmail.com">
