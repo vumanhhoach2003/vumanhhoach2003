@@ -2,7 +2,7 @@
 
 ### 🎓 FinTech Graduate
 
-Tôi vừa tốt nghiệp ngành **Công nghệ Tài chính (FinTech)** tại **Học viện Công nghệ Bưu chính Viễn thông – PTIT**.
+Tôi tốt nghiệp ngành **Công nghệ Tài chính (FinTech)** tại **Học viện Công nghệ Bưu chính Viễn thông – PTIT**.
 
 Tôi quan tâm đến **Data Engineering, Data Analytics và Applied AI**, đặc biệt là xây dựng pipeline dữ liệu, xử lý dữ liệu và ứng dụng dữ liệu vào các bài toán thực tế.
 
@@ -55,7 +55,6 @@ Qua dự án này, tôi có cơ hội thực hành thiết kế **Data Pipeline 
 ## 🤝 Liên hệ
 
 📧 [vumanhhoach2003@gmail.com](mailto:vumanhhoach2003@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/vumanhhoach)  
 💻 [GitHub](https://github.com/vumanhhoach2003)
 
 ---
