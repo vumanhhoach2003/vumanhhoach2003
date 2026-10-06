@@ -1,12 +1,12 @@
-# Xin chào, mình là Vũ Mạnh Hoạch 👋
+# Xin chào, tôi là Vũ Mạnh Hoạch 👋
 
-### 🎓 FinTech Graduate | 📊 Data Engineering | 🤖 Aspiring Data & AI Engineer
+### 🎓 FinTech Graduate
 
-Mình vừa tốt nghiệp ngành **Công nghệ Tài chính (FinTech)** tại **Học viện Công nghệ Bưu chính Viễn thông – PTIT**.
+Tôi vừa tốt nghiệp ngành **Công nghệ Tài chính (FinTech)** tại **Học viện Công nghệ Bưu chính Viễn thông – PTIT**.
 
-Mình quan tâm đến **Data Engineering, Data Analytics và Applied AI**, đặc biệt là xây dựng pipeline dữ liệu, xử lý dữ liệu và ứng dụng dữ liệu vào các bài toán thực tế.
+Tôi quan tâm đến **Data Engineering, Data Analytics và Applied AI**, đặc biệt là xây dựng pipeline dữ liệu, xử lý dữ liệu và ứng dụng dữ liệu vào các bài toán thực tế.
 
-Hiện tại, mình đang tiếp tục học về **Machine Learning và AI ứng dụng**, với mục tiêu phát triển theo hướng **Data/AI Engineer**.
+Hiện tại, tôi đang tiếp tục học về **Machine Learning và AI ứng dụng**, với mục tiêu phát triển theo hướng **Data/AI Engineer**.
 
 ---
 
@@ -38,11 +38,11 @@ Dự án xây dựng **Data Lakehouse cho dữ liệu chứng khoán VN30**.
 - Quản lý metadata bằng **Hive Metastore**
 - Triển khai bằng **Docker Compose**
 
-Qua dự án này, mình có cơ hội thực hành thiết kế **Data Pipeline end-to-end** và làm việc với kiến trúc Data Lakehouse.
+Qua dự án này, tôi có cơ hội thực hành thiết kế **Data Pipeline end-to-end** và làm việc với kiến trúc Data Lakehouse.
 
 ---
 
-## 🌱 Hiện tại mình đang học
+## 🌱 Hiện tại tôi đang học
 
 - Machine Learning fundamentals
 - Data preprocessing & Feature Engineering
