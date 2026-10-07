@@ -2,7 +2,7 @@
 
 ### 🎓 FinTech Graduate
 
-Tôi tốt nghiệp ngành **Công nghệ Tài chính (FinTech)** tại **Học viện Công nghệ Bưu chính Viễn thông – PTIT**.
+Tốt nghiệp ngành **Công nghệ Tài chính (FinTech)** tại **Học viện Công nghệ Bưu chính Viễn thông – PTIT**.
 
 Tôi quan tâm đến **Data Engineering, Data Analytics và Applied AI**, đặc biệt là xây dựng pipeline dữ liệu, xử lý dữ liệu và ứng dụng dữ liệu vào các bài toán thực tế.
 
