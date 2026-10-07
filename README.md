@@ -42,16 +42,6 @@ Qua dự án này, tôi có cơ hội thực hành thiết kế **Data Pipeline 
 
 ---
 
-## 🌱 Hiện tại tôi đang học
-
-- Machine Learning fundamentals
-- Data preprocessing & Feature Engineering
-- Model Evaluation
-- Applied AI
-- Algorithms & Problem Solving
-
----
-
 ## 🤝 Liên hệ
 
 📧 [vumanhhoach2003@gmail.com](mailto:vumanhhoach2003@gmail.com)  
